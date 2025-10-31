@@ -17,6 +17,7 @@ It combines **machine learning**, **Arduino-controlled motors**, and **Python co
 
 ## ⚙️ Hardware
 - Arduino UNO
+- AdaFruit Motor Shield
 - DC Motors to open the lid  
 - Cardboard box (as the bin)  
 - USB Cable  
