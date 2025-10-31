@@ -41,7 +41,7 @@ It combines **machine learning**, **Arduino-controlled motors**, and **Python co
 
 ## 🎥 Project Video
 Watch the full demonstration on YouTube:  
-👉 [Smart Recycling Bin Demonstration](https://www.youtube.com/channel/UCfidNmY5ezaeweFhrGzivoQ)
+👉 [Smart Recycling Bin Demonstration](https://youtu.be/0VyxrFK3I_0)
 
 ---
 
