@@ -7,7 +7,17 @@ It combines **machine learning**, **Arduino-controlled motors**, and **Python co
 
 ---
 
-## Features
+## 🎯 Purpose of the Project
+
+The goal of this project is to reduce contamination in recycling streams by ensuring that only recyclable items enter the bin.  
+Contamination occurs when **non-recyclable items** are thrown into recycling bins, causing entire batches to be rejected and sent to landfills. 
+  
+
+It was developed as a personal learning project to explore robotics, ML classification, and hardware-software integration, and to create a working prototype that addresses a real environmental problem.
+
+---
+
+## ✨ Features
 - Detects recyclable items using a machine learning model 
 - Opens a **cardboard lid via Arduino-controlled motors** when the item is recognized  
 - Prevents **non-recyclables** from entering the bin  
@@ -48,3 +58,14 @@ Watch the full demonstration on YouTube:
 ## 📝 Notes
 - Developed as a **personal robotics and machine learning project**  
 - Trained only on a limited database, can be expanded easily though.
+
+---
+
+## 🚀 Implemented Improvements
+
+- Added **LED indicators** to provide real-time status, for improved usability:
+  - **Red LED** stays ON during standby.
+  - **Green LED** turns ON during correct item detection and lid opening.
+
+---
+
